@@ -10,7 +10,7 @@ class Book
   end
   
   def GENRES
-    GENRES
+    GENRES.genre
   end
  
   def turn_page
